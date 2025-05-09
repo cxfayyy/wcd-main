@@ -26,7 +26,7 @@ To run the app locally:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/silvaronna/wcd-main.git
+   git clone https://github.com/cxfayyy/wcd-main.git
 
 2. Open Directory:
    ```bash
